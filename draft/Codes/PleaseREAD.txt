@@ -1,0 +1,1 @@
+This folder cotains all the code and an exe file of the most recent release.In ICD9-ICD10 System ver./ICD9-ICD10 System ver/ Form1.h is the main code file as of now. it can be read throught note pad.
